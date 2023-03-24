@@ -12,7 +12,7 @@ enum planck_layers {
 };
 
 enum planck_keycodes {
-  RGB_SLD = EZ_SAFE_RANGE,
+  RGB_SLD = SAFE_RANGE,
 };
 
 extern rgb_config_t rgb_matrix_config;
